@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Figuras</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="opcion">Seleccione la figura: </string>
+    <string name="radio">Radio</string>
+    <string name="resultado">El área es: </string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="atras">Atrás</string>
+    <string name="lado">Lado</string>
+    <string name="areas">Áreas</string>
+
+
+
+</resources>

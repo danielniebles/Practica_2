@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="user">Usuario</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="repeat">Repetir contraseña</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>}
+    <string name="hobbie1">Cine</string>
+    <string name="hobbie2">Televisión</string>
+    <string name="hobbie3">Internet</string>
+    <string name="hobbie4">Teatro</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="date">Ingrese la fecha de nacimiento: </string>
+    <string name="city">Ingrese ciudad de origen</string>
+    <string name="hobbies">Seleccione Hobbies</string>
+    <string name="save">Guardar</string>
+    <string name="sex">Sexo: </string>
+</resources>
